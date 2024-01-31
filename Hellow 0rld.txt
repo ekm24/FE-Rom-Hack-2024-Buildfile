@@ -1,0 +1,4 @@
+PUSH
+ORG 0x1000050
+String(Hellow Orld!)
+POP

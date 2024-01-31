@@ -1,0 +1,4 @@
+[OpenFarLeft][LoadFace][0x02][0x01]
+Hello, how are you?[A]
+As for me, I'm talking[NL]
+words at you![A][X]

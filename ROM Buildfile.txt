@@ -1,0 +1,8 @@
+#include eastdlib.event
+ORG 0x1000000
+#include "Hello World.txt"
+#include "Hellow 0rld.txt"
+#include "Hello World.txt"
+#include "Tables/Table Installer.txt"
+#include "AntiHuffman_Patch.txt"
+#include "Text/Install Text Data.event"
